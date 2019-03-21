@@ -1,0 +1,30 @@
+{
+  "name": "Friend-Finder",
+  "version": "1.0.0",
+  "description": "An Node.js and Express based friend matching application.",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.17.1",
+    "config.json": "0.0.4",
+    "express": "^4.16.4",
+    "path": "^0.12.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sunny-Liao/Friend-Finder.git"
+  },
+  "keywords": [
+    "Friend-Finder"
+  ],
+  "author": "empty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sunny-Liao/Friend-Finder/issues"
+  },
+  "homepage": "https://github.com/Sunny-Liao/Friend-Finder#readme"
+}
